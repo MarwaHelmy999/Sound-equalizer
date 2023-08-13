@@ -3,6 +3,6 @@
 # virtual instruments
 ![sound2](https://user-images.githubusercontent.com/61320897/169918959-45a3105f-875a-4e6b-9549-7ef591d57449.PNG)
 ## The team involved in the project
-#### @https://github.com/nadapopp
-#### @https://github.com/HadeerAnwer1356
+#### https://github.com/nadapopp
+#### https://github.com/HadeerAnwer1356
 
